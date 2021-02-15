@@ -1,5 +1,9 @@
 ### Hi there, I'm Alessandro 👋
 
+This is the place where I opensource stuff and keep my secrets projects.
+
+- 🔭 I’m currently working on something cool :wink:
+
 <!--
 **alessandrolanghi/alessandrolanghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
